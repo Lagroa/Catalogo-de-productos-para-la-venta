@@ -26,7 +26,7 @@ Aquí te mostramos cómo está organizado nuestro pequeño universo culinario:
 
 Si tienes alguna pregunta, sugerencia o simplemente quieres hablar de amor y comida, no dudes en contactarnos:
 
-- **Email**: amorenlacocina@example.com
+- **Pagina Web**://www.gavassa.com/
 
 Gracias por unirte a nosotros en este viaje culinario. Cada bocado es un poema, cada plato una obra de arte. ¡Disfruta de la experiencia! 🍽️✨
 
