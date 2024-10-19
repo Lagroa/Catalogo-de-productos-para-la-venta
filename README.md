@@ -24,7 +24,7 @@ Aquí te mostramos cómo está organizado nuestro pequeño universo culinario:
 
 ## 💌 **Contacto**
 
-Si tienes alguna pregunta, sugerencia o simplemente quieres hablar de amor y comida, no dudes en contactarnos:
+Si tienes alguna pregunta, sugerencia o quieres comercializar nuestros productos, puedes contactarnos:
 
 - **Pagina Web**://www.gavassa.com/
 
