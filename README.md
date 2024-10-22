@@ -5,9 +5,10 @@ Bienvenido a nuestro catalogo de pastas Gavassa, una compañía con 130 años pr
 
 ## 🌟 **¿Qué encontrarás aquí?**
 
-- **Pastas Gavassa**: Variedad de pastas alimenticias en diferentes formatos, tales como Spaghettis, macarrones, fideos, conchas, tornillos, entre otros; y en presentaciones que van desde 125gr hasta 1.000gr
-- **Arroz Gelvez**: Recetas tradicionales que evocan recuerdos y salsas innovadoras que despiertan los sentidos. 🍅
-- **Alimentos Frescos**: Ingredientes que hacen latir el corazón, desde tomates jugosos hasta albahaca fragante. 🌿
+- **Pastas Gavassa**: Variedad de pastas alimenticias en diferentes formatos, tales como Spaghettis, macarrones, fideos, conchas, tornillos, entre otros; y en presentaciones que van desde 125gr hasta 1.000gr. 🍝
+- **Arroz Gelvez**: Recetas tradicionales que evocan recuerdos y salsas innovadoras que despiertan los sentidos.🍛
+- **Azúcar Riopaila**: Ingredientes que hacen latir el corazón, desde tomates jugosos hasta albahaca fragante. 🍝
+- **Concentrados Finca**: 🐶🐱
 
 ## 📊 **Estructura de la Base de Datos**
 
