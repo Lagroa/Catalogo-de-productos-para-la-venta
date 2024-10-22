@@ -1,5 +1,4 @@
-# 🍝 **Lo rico es lo nuestro** ❤️
-
+# 🍝 **Lo rico es lo nuestro** ❤️logo.jpg
 
 Bienvenido a nuestro catalogo de pastas Gavassa, una compañía con 130 años produciendolas pastas mas queridas del gran Santander y que se explorar un **catálogo de productos** dedicados a la venta de **pastas y alimentos**. 
 
