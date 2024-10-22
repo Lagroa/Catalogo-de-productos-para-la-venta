@@ -5,8 +5,8 @@ Bienvenido a nuestro catalogo de pastas Gavassa, una compañía con 130 años pr
 
 ## 🌟 **¿Qué encontrarás aquí?**
 
-- **Pasta Perfecta**: Desde espaguetis que bailan en la salsa, hasta ravioles que esconden sorpresas. Cada tipo de pasta ha sido seleccionada con cariño.
-- **Salsas Seductoras**: Recetas tradicionales que evocan recuerdos y salsas innovadoras que despiertan los sentidos. 🍅
+- **Pastas Gavassa**: Variedad de pastas alimenticias en diferentes formatos, tales como Spaghettis, macarrones, fideos, conchas, tornillos, entre otros; y en presentaciones que van desde 125gr hasta 1.000gr
+- **Arroz Gelvez**: Recetas tradicionales que evocan recuerdos y salsas innovadoras que despiertan los sentidos. 🍅
 - **Alimentos Frescos**: Ingredientes que hacen latir el corazón, desde tomates jugosos hasta albahaca fragante. 🌿
 
 ## 📊 **Estructura de la Base de Datos**
