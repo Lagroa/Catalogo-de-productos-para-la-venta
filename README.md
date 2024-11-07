@@ -17,6 +17,18 @@ Bienvenido a nuestro catalogo de pastas Gavassa, una compañía con 130 años pr
 - **Proveedores**: Aliados con los que trabajamos.
 - **Opiniones de Clientes**: 
 
+<<<<<<< HEAD
+- **Productos**: Contiene información sobre cada producto disponible, con descripciones que te harán salivar. 😋
+- **Categorías**: Productos alimenticios básicos para la canasta familiar
+
+## 📜 **¿Cómo usar esta base de datos?**
+
+1. **Explora**: Sumérgete en las diferentes categorías y descubre los productos que robarán tu corazón.
+2. **Añade**: Si tienes nuevas delicias para compartir, ¡déjanos saber! Cada sugerencia es un nuevo capítulo en nuestra historia.
+3. **Comparte**: ¿Te enamoraste de algún producto? ¡Compártelo con tus amigos y familiares! 🥰
+
+=======
+>>>>>>> 62682388948fd6e865bbc1db5d17783bfbd3a193
 ## 💌 **Contacto**
 
 Si tienes alguna pregunta, sugerencia o quieres comercializar nuestros productos, puedes contactarnos:
@@ -27,4 +39,8 @@ Gracias por unirte a nosotros en este viaje culinario. Cada bocado es un poema, 
 
 ---
 
+<<<<<<< HEAD
+**Gavassa lo rico es lo nuestro.** ❤️
+=======
 **Gavassa, lo rico es lo nuestro.** ❤️
+>>>>>>> 62682388948fd6e865bbc1db5d17783bfbd3a193
