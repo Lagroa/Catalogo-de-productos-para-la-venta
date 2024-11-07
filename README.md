@@ -12,7 +12,7 @@ Bienvenido a nuestro catalogo de pastas Gavassa, una compañía con 130 años pr
 
 ## 📊 **Estructura de la Base de Datos**
 
-- **Articulos**: Contiene información sobre cada producto disponible para la venta. 😋
+- **Articulos**: Contiene información sobre cada producto disponible para la venta, resaltando las pastas alimenticias que producimos. 😋
 - **Precios**: Contiene los precios por artículo y por perfil de clientes
 - **Proveedores**: Aliados con los que trabajamos.
 - **Opiniones de Clientes**: 
@@ -27,4 +27,4 @@ Gracias por unirte a nosotros en este viaje culinario. Cada bocado es un poema, 
 
 ---
 
-**Con amor, de nuestra cocina a tu mesa.** ❤️
+**Gavassa, lo rico es lo nuestro.** ❤️
